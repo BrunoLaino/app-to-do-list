@@ -21,7 +21,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.dev/),[Java JDK](https://www.oracle.com/java/technologies/downloads/#java8), [Android Studio](https://developer.android.com/studio).
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-### <a id="rodando-app"></a>🎲 Rodando o Aplicativo de Anotação
+### <a id="rodando-app"></a>🎲 Rodando o Aplicativo
 
 ```bash
 # Clone este repositório
